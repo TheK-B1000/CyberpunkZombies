@@ -1916,3 +1916,77 @@ System memory in use after: 81.5 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1878.
 Total: 1.790300 ms (FindLiveObjects: 0.222300 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.205700 ms  DeleteObjects: 0.328100 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.643 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.8 MB.
+System memory in use after: 81.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1880.
+Total: 1.788200 ms (FindLiveObjects: 0.189200 ms CreateObjectMapping: 0.029500 ms MarkObjects: 1.223600 ms  DeleteObjects: 0.345100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.8 MB.
+System memory in use after: 81.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 1.750300 ms (FindLiveObjects: 0.194600 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.197300 ms  DeleteObjects: 0.328100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1293.753479 seconds.
+  path: Assets/MyPrefabs/Blue.mat
+  artifactKey: Guid(ba10be14c389b184faf867df5a785c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Blue.mat using Guid(ba10be14c389b184faf867df5a785c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1492ded8e36e59bd760df5119c28a3') in 0.045543 seconds
+  Import took 0.047916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/MyPrefabs/Yellow.mat
+  artifactKey: Guid(ebdb46e9a3e320c4495ea5a5b84cb16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Yellow.mat using Guid(ebdb46e9a3e320c4495ea5a5b84cb16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d0db09e6cbabb4b8b304f276f50ad7') in 0.008049 seconds
+  Import took 0.010014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/MyPrefabs/Gray.mat
+  artifactKey: Guid(68fcedaa8883a5547a693e623c51ab5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Gray.mat using Guid(68fcedaa8883a5547a693e623c51ab5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590240c960efa5c803c89758352053b4') in 0.006805 seconds
+  Import took 0.008986 seconds .
+
